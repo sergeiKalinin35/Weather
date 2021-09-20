@@ -20,7 +20,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="jiV-Pt-ebB">
-                                <rect key="frame" x="8" y="201" width="398" height="183.5"/>
+                                <rect key="frame" x="8" y="201" width="398" height="171.5"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Kaliningrad" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZLE-NH-jo1">
                                         <rect key="frame" x="124" y="0.0" width="150" height="36"/>
@@ -29,15 +29,15 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="17" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eQF-gV-MtN">
-                                        <rect key="frame" x="165" y="56" width="68" height="87"/>
-                                        <fontDescription key="fontDescription" type="system" weight="light" pointSize="70"/>
+                                        <rect key="frame" x="171" y="56" width="56" height="75"/>
+                                        <fontDescription key="fontDescription" type="system" weight="thin" pointSize="60"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                         <color key="shadowColor" systemColor="systemGray5Color"/>
                                         <size key="shadowOffset" width="0.0" height="-3"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CELSIUS" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oo4-AC-vhU">
-                                        <rect key="frame" x="165" y="163" width="68" height="20.5"/>
+                                        <rect key="frame" x="165" y="151" width="68" height="20.5"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" systemColor="systemGray3Color"/>
                                         <nil key="highlightedColor"/>

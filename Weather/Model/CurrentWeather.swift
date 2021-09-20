@@ -17,5 +17,5 @@ struct CurrentWeather: Decodable {
     
     
     
-    
+        
 }
